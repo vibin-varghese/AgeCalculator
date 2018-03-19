@@ -10,6 +10,7 @@ public class AgeCalculator {
 
 	public void findAge1(String age) {
 
+		String tempAge = age;
 	}
 
 	public void findAge2(String age) {
