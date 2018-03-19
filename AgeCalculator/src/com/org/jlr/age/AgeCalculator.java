@@ -7,4 +7,8 @@ public class AgeCalculator {
 	public void findAge(String age) {
 		
 	}
+	
+	public void findAge1(String age) {
+		
+	}
 }
